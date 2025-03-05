@@ -529,6 +529,7 @@ app.listen(port, () => {
   ![Get all booking](images/postman-getall.png)
 
 ### บันทึกผลลัพธ์การ Get ข้อมูล
+![1](https://github.com/user-attachments/assets/045fbfc7-8a87-423e-90eb-b71a241356ba)
 
 ![รูปผลลัพธ์การ Get ข้อมูล](images path/image.png)
 
@@ -538,6 +539,7 @@ app.listen(port, () => {
    - Headers: Authorization: Bearer {{token}}
 
 ### /1 คือหมายเลข ID ที่ต้องการ
+![2](https://github.com/user-attachments/assets/58f46ea1-1431-44f2-a480-b3bcc65e7d38)
 
 ### บันทึกผลลัพธ์การ Get ข้อมูลโดยระบุ ID
 
@@ -550,6 +552,7 @@ app.listen(port, () => {
 ### /1 คือหมายเลข ID ที่ต้องการแก้ไขข้อมูล
 
 ### 8.1 comment จะยังไม่ถูกปรับปรุงแก้ไข ให้ทำการแก้ไขโค้ดส่วนของการ update แล้วรันโปรแกรมใหม่อีกครั้งเพื่อทดสอบการแก้ไข
+![3 1](https://github.com/user-attachments/assets/8eca5419-c4c4-4e8c-9972-48391f697ab1)
 
 ### บันทึกผลลัพธ์การ PUT เพื่อแก้ไขข้อมูล (ข้อมูล comment จะต้องไม่เป็นค่า null)
 
@@ -559,6 +562,7 @@ app.listen(port, () => {
    - Headers: Authorization: Bearer {{token}}
 
 ### บันทึกผลลัพธ์การ DELETE
+![4](https://github.com/user-attachments/assets/67313564-91e1-4c43-a38d-06f5ab75c41f)
 
 ![รูปผลลัพธ์การ delete ข้อมูล](images path/image.png)
 
@@ -570,6 +574,7 @@ app.listen(port, () => {
 
 ![รูปผลลัพธ์การ Delete ข้อมูล](images path/image.png)
 
+![4 1](https://github.com/user-attachments/assets/46107933-f99e-472c-9fc2-b35f151db08f)
 
 
 ## ทฤษฎีที่เกี่ยวข้องกับการพัฒนาส่วน Front-end ด้วย React
