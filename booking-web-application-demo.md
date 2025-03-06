@@ -1056,7 +1056,7 @@ npm install -D tailwindcss@3 postcss autoprefixer
 ```
 #### axios คืออะไร ?
 ```html
-  axios คืออะไร เขียนคำตอบที่นี่
+  axios คือ ใช้สำหรับเรียก API
 ```
 3. ตั้งค่า Tailwind CSS:
 
